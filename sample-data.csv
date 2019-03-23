@@ -1,0 +1,3 @@
+invoice_id;user_id;customer_id;amount
+1;user1;customerId1;7069.22
+4;user2;customerId2;4079.84
